@@ -1,0 +1,89 @@
+[2024-10-05-17-33-46-229]
+Actions=@Invalid()
+Application=lxqt-powermanagement
+Body=Charging (100%)
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=lxqt-powermanagement
+Summary=Battery Present
+TimeOut=10000
+
+[2024-10-05-17-35-10-238]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-05-17-35-43-235]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-05-17-38-30-249]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-05-17-39-36-243]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-05-17-40-42-238]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-05-17-49-33-232]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-05-17-49-51-236]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
+TimeOut=10000
+
+[2024-10-06-09-17-10-695]
+Actions=@Invalid()
+Application=lxqt-powermanagement
+Body=Charging (100%)
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=lxqt-powermanagement
+Summary=Battery Present
+TimeOut=10000
+
+[2024-10-06-09-56-37-636]
+Actions=@Invalid()
+Application=NetworkManager(nm-tray)
+Body=Now connected to bridge 'docker0'.
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=network-wired
+Summary=Connection established
+TimeOut=10000

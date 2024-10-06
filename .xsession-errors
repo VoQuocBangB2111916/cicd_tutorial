@@ -1,0 +1,1088 @@
+Xsession: X session started for voquocbang at Thứ bảy, 05 Tháng 10 năm 2024 17:33:29 +07
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_DtrfTF
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+localuser:voquocbang being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting PWD=/home/voquocbang
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=LXQt
+dbus-update-activation-environment: setting LOGNAME=voquocbang
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_DtrfTF
+dbus-update-activation-environment: setting HOME=/home/voquocbang
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting LIBVIRT_DEFAULT_URI=qemu:///system
+dbus-update-activation-environment: setting USER=voquocbang
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=vi_VN
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+New PolkitAgentListener  0x5a2ecefe5130
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffd953fdd70) for  0x5a2ecefe5130
+dbus-daemon[1334]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1346 comm="/usr/bin/lxqt-policykit-agent" label="unconfined")
+dbus-daemon[1334]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+isPrimaryInstance
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+blueman-applet 17.33.35 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.33.35 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+systemd: "CanHibernate" = "na"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+starting
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+systemd: "CanPowerOff" = "yes"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+WinIdChange 1400008 handle QWidgetWindow(0x5d56e4d90370, name="LXQtPanel panel1Window") QScreen(0x5d56e4aab4f0, name="Virtual1")
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+[Notice] Started
+QDBusConnection: name 'org.freedesktop.UPower' had owner '' but we thought it was ':1.43'
+StatusNotifierProxy, services: ()
+Manager selection claimed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+Inhibit got: 30
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibernateButton" "" ""
+Starting idlenesswatcher
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+blueman-applet 17.33.59 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+"Failed to get sink information: No such entity"
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Service ":1.42" unregistered
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”" for "/org/freedesktop/UDisks2/block_devices/loop14"
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”" for "/org/freedesktop/UDisks2/block_devices/loop14"
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”" for "/org/freedesktop/UDisks2/block_devices/loop14"
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”" for "/org/freedesktop/UDisks2/block_devices/loop14"
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Xsession: X session started for voquocbang at Chủ nhật, 06 Tháng 10 năm 2024 09:16:55 +07
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_nBkngg
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+localuser:voquocbang being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting PWD=/home/voquocbang
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=LXQt
+dbus-update-activation-environment: setting LOGNAME=voquocbang
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_nBkngg
+dbus-update-activation-environment: setting HOME=/home/voquocbang
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting LIBVIRT_DEFAULT_URI=qemu:///system
+dbus-update-activation-environment: setting USER=voquocbang
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=vi_VN
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+New PolkitAgentListener  0x5afcf0f65cf0
+Adding new listener  PolkitQt1::Agent::Listener(0x7fffc04abf40) for  0x5afcf0f65cf0
+dbus-daemon[1510]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1521 comm="/usr/bin/lxqt-policykit-agent" label="unconfined")
+dbus-daemon[1510]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+isPrimaryInstance
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+blueman-applet 09.16.59 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.16.59 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+systemd: "CanHibernate" = "na"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+starting
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+WinIdChange 1200008 handle QWidgetWindow(0x5588c92c9150, name="LXQtPanel panel1Window") QScreen(0x5588c8ff1160, name="Virtual1")
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+QDBusConnection: name 'org.freedesktop.UPower' had owner '' but we thought it was ':1.46'
+StatusNotifierProxy, services: ()
+Manager selection claimed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibernateButton" "" ""
+[Notice] Started
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+blueman-applet 09.17.26 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+execAction "/var/lib/snapd/desktop/applications/firefox_firefox.desktop"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local/share": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[Parent 1722, Main Thread] WARNING: Failed to parse /etc/xdg/xdg-Lubuntu/gtk-3.0/settings.ini: Permission denied: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1722): Gtk-WARNING **: 09:19:38.901: Failed to parse /etc/xdg/xdg-Lubuntu/gtk-3.0/settings.ini: Permission denied
+[Parent 1722, Main Thread] WARNING: Failed to mkdir /home/voquocbang/snap/firefox/4173/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1722): IBUS-WARNING **: 09:19:44.578: Failed to mkdir /home/voquocbang/snap/firefox/4173/.config/ibus/bus: Not a directory
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+libEGL warning: DRI2: failed to authenticate
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/4  is currently invalid...
+nm-tray: void NmModelPrivate::onConnectionAdded(const QString&) /org/freedesktop/NetworkManager/Settings/4  is currently invalid...
+nm-tray: void NmModelPrivate::onActiveConnectionAdded(const QString&) /org/freedesktop/NetworkManager/ActiveConnection/4  is currently invalid...
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/5  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/6  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/5  is currently invalid...
+kf.networkmanagerqt: void NetworkManager::ConnectionPrivate::onPropertiesChanged(const QVariantMap&) Unhandled property "VersionId"
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/7  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/7  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/6  is currently invalid...
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/8  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/9  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/8  is currently invalid...
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/10  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/10  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/9  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/11  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/12  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/11  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/13  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/13  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/12  is currently invalid...
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/14  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/15  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/14  is currently invalid...
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
