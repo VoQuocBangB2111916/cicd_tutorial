@@ -1,0 +1,13 @@
+9
+
+https://chat.zalo.me/
+https://chat.zalo.me/service-worker.9c0875841efb5667ea74.js
+true
+{31cade94-5f08-491d-9ae2-6a882a660c8d}
+0
+1728186872547429
+1728186872548517
+1728186872523419
+0
+true
+#
